@@ -27,7 +27,7 @@ I'm always excited about collaborating on cool projects. If you have an idea or 
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utsabzz&show_icons=true&theme=radical)
 
-> "Coding is my canvas, and every project is a work of art." - [Your Name]
+> "Coding is my canvas, and every project is a work of art." - Utsab
 
 ---
 
