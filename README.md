@@ -31,8 +31,6 @@ I'm always excited about collaborating on cool projects. If you have an idea or 
 
 ---
 
-*Note: Feel free to customize and enhance this template to match your personality and style. Have fun creating your awesome GitHub profile! 🚀*
-
 <!---
 utsabzz/utsabzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
